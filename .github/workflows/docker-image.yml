@@ -18,4 +18,4 @@ jobs:
       run: docker build -t lcphutchinson/is601_qr_codegen .
 
     - name: Run the Docker image
-      run: docker run -v ./qr_codes:/app/qr_codes lcphutchinson/is601_qr_codegen
+      run: docker run lcphutchinson/is601_qr_codegen
