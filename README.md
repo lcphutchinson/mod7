@@ -30,6 +30,7 @@ This error occurs only while mounting with the `-v` option, and has not been rem
 ### Successful Github Actions Run
 
 ![Screenshot 2025-06-30 152619](https://github.com/user-attachments/assets/184dfc45-f73b-47f7-a688-26b507c17fa5)
+- Note: Github Actions has the same permissions error I have had when trying to run with `-v`
 
 ## Generated QR Codes
 
