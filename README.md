@@ -4,6 +4,8 @@ A module of is601 Web Systems Development, by Keith Williams
 
 This module serves as an introduction to containerization using Docker, and makes use of a simple QR Generation script to demonstrate remote execution with and without volume mounting. 
 
+Also See the Dockerhub Image [[Here]](https://hub.docker.com/repository/docker/lcphutchinson/is601_qr_codegen) or scan the associated QR code
+
 ## Reflection Component
 
 I had an elementary grasp of Docker prior to this module, having completed one online course on this same subject matter prior to the start of term. As such, Docker Desktop was already installed on my system and configured for use with my WSL. That being said, I have confronted a configuration error in my attempts to deploy and run the docker image that I have not yet remedied, and instead have only temporarily solved:
