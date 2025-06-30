@@ -1,4 +1,4 @@
-QRCode_20250630185337.png# Module 7
+# Module 7
 
 ## My Github Repository
 ![Github Repo](/qr_codes/QRCode_20250630185337.png "My QR Code Link")
